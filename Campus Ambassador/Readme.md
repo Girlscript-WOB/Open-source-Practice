@@ -5,7 +5,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-<!--        | <img src="Your Image URL" width="100" height="100"> |Durgesh Kumar Prajapati| India | Open Source Developer | - [LinkedIn](Your LinkedIn URL), - [GitHub](Your GitHub URL) - [Twitter](Your Twitter URL) |    Get your img URL from https://api.github.com/users/github-user-name --> 
+# <!--  | <img src="Your Image URL" width="100" height="100"> |Durgesh Kumar Prajapati| India | Open Source Developer | - [LinkedIn](Your LinkedIn URL), - [GitHub](Your GitHub URL) - [Twitter](Your Twitter URL) |    Get your img URL from https://api.github.com/users/github-user-name --> 
 
 
 | Image  |Name | Country               | Who am I                    | LinkedIn, GitHub and Twitter|
