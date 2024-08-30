@@ -11,3 +11,4 @@
 | Image  |Name | Country               | Who i am                       | LinkedIn, GitHub and Twitter|
 |------|--------|-----------------------|--------------------------------|-------------------|
 | <img src="https://avatars.githubusercontent.com/u/98798977?v=4" width="100" height="100"> | Durgesh Kumar Prajapati| India | Open Source Developer | - [LinkedIn](https://www.linkedin.com/in/durgesh4993/) - [GitHub](https://github.com/Durgesh4993) - [Twitter](https://x.com/durgesh4993) |
+| <img src="https://avatars.githubusercontent.com/u/72603662?v=4" width="100" height="100"> | Shreyash Srivastava| India | Open Source Developer | - [LinkedIn](www.linkedin.com/in/shreyash-srivastava-1a1161280) - [GitHub](https://github.com/shreyash3087) - [Twitter](https://x.com/Shreyash3087) |
