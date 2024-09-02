@@ -11,3 +11,6 @@
 | Image  |Name | Country               | Who am I                    | LinkedIn, GitHub and Twitter|
 |------|--------|-----------------------|--------------------------------|-------------------|
 | <img src="https://avatars.githubusercontent.com/u/98798977?v=4" width="100" height="100"> | Durgesh Kumar Prajapati| India | Open Source Developer | - [LinkedIn](https://www.linkedin.com/in/durgesh4993/) - [GitHub](https://github.com/Durgesh4993) - [Twitter](https://x.com/durgesh4993) |
+| <img src="https://avatarfiles.alphacoders.com/369/369512.jpg" width="100" height="100"> | Mohammed Ufraan | India | Developer ; Cybersecurity Researcher | - [LinkedIn](https://www.linkedin.com/in/ufraaan/) - [GitHub](https://github.com/moroii69) - [Twitter](https://x.com/Ufraan1) |
+
+
