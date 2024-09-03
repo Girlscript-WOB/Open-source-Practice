@@ -1,5 +1,5 @@
 # Open-source-Practice
-Winter of Blockchain, founded by GirlScript Foundation India in 2022, is a 3-month open source program designed to empower blockchain enthusiasts.
+Winter of Blockchain, founded by GirlScript Foundation India in 2022, is a 2-month open source program designed to empower blockchain enthusiasts.
 
 ## Open-Source-Practice Pull Requests
 
