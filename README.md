@@ -155,6 +155,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - **To find out about how to fix a Git Conflict, go to [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
 
+## Video demonstration for Mentors and CAs to open pull requests
+
+https://github.com/user-attachments/assets/25902d1c-5923-4719-b72a-fa665adabdc4
+
 
 ## Our Pledge
 
