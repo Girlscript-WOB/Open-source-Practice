@@ -157,7 +157,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 ## Video demonstration for Mentors and CAs to open pull requests
 
-https://github.com/user-attachments/assets/25902d1c-5923-4719-b72a-fa665adabdc4
+https://github.com/user-attachments/assets/891b8824-6c71-4371-9797-5c2c7f157e6c
+
+
 
 
 ## Our Pledge
