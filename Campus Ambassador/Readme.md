@@ -4,7 +4,9 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-# <!--  | <img src="Your Image URL" width="100" height="100"> |Durgesh Kumar Prajapati| India | Open Source Developer | - [LinkedIn](Your LinkedIn URL), - [GitHub](Your GitHub URL) - [Twitter](Your Twitter URL) |    Get your img URL from https://api.github.com/users/github-user-name --> 
+# <!--  | <img src="![https://avatars.githubusercontent.com/u/161915353?s=400&u=3608d7512f18be1528a346c6e80f195d3b708d26&v=4)
+" width="100" height="100"> |Swagatika Parida| India | Open Source Developer | - [LinkedIn](www.linkedin.com/in/swagatika-parida-4865b028b
+), - [GitHub](https://github.com/SwagatikaParida) - [Twitter](https://x.com/swagatika611492) |    Get your img URL from https://api.github.com/users/github-user-name --> 
 
 
 | Image  |Name | Country               | Who am I                    | LinkedIn, GitHub and Twitter|
